@@ -35,7 +35,7 @@ In **Bubble Sort**, we make a series of swaps between adjacent elements, gradual
 1. Loop through your array
     - Compare each element to its neighbor
     - If elements in wrong position (relative to each other, swap them)
-2. If no swaps performed, stop. Else, go back to the element at index 0 and repeat step 1.
+2. If no swaps performed, stop. Else, go back to the element at index 0 and repeat step 
 
 ### Real-World Applications
 ***Bubble Sort*** is not ideal for many real-world applications. If a small element that _should_ be at the beginning of our array is originally located near the end, it will take a long time to move it into its correct position.
